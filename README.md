@@ -73,8 +73,6 @@ All charts and KPIs update dynamically through slicer selections.
 ---
 
 
-```
-
 ## Skills Demonstrated
 
 - Data Cleaning and Preparation
