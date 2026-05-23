@@ -72,14 +72,7 @@ All charts and KPIs update dynamically through slicer selections.
 
 ---
 
-## Project Structure
 
-```text
-superstore-sales-dashboard/
-│
-├── Superstore_Sales_Dashboard.xlsx
-├── dashboard_screenshot.png
-└── README.md
 ```
 
 ## Skills Demonstrated
@@ -104,9 +97,4 @@ superstore-sales-dashboard/
 
 ---
 
-## Author
 
-**Kulwinder Bhamra**
-
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
