@@ -71,7 +71,7 @@ All charts and KPIs update dynamically through slicer selections.
 
 
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+
 
 ---
 
