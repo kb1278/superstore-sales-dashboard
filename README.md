@@ -67,7 +67,8 @@ All charts and KPIs update dynamically through slicer selections.
 ---
 
 ## Dashboard Preview
-<img width="662" height="584" alt="image" src="https://github.com/user-attachments/assets/7e3459a2-0979-47b1-b713-c5378c28927b" />
+<img width="645" height="572" alt="image" src="https://github.com/user-attachments/assets/47cebac4-2ec2-4b59-9c72-681a152042a1" />
+
 
 
 
